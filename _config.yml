@@ -1,3 +1,13 @@
-name: Gustavo Vinícius
-markdown: redcarpet
-pygments: true
+# Site settings
+title: Gustavo Vinícius
+email: me@gustavovinicius.com
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+baseurl: ""
+url: "http://gustavovinicius.com"
+username: gustavovnicius
+usernametwitter: "@gustavovncius"
+usernamekeybase: gustavo
+
+# Build settings
+markdown: kramdown
+permalink: pretty
